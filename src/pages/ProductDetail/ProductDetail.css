@@ -1,0 +1,16 @@
+.product-detail {
+  min-height: 640px;
+  display: flex;
+}
+
+.img-display {
+  width: 40%;
+}
+
+.product-details {
+  width: 60%;
+}
+
+.img-responsive {
+  width: 100%;
+}

@@ -5,8 +5,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import Listing from './pages/Listing/Listing';
-import ProductDetail from './pages/ProductDetail';
-import Cart from './pages/Cart';
+import ProductDetail from './pages/ProductDetail/ProductDetail';
+import Cart from './pages/Cart/Cart';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 

@@ -1,0 +1,22 @@
+.cart {
+  min-height: 650px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-item {
+  width: 60%;
+  height: 200px;
+  margin-bottom: 25px;
+  display: flex;
+}
+
+.cart-item-img {
+  width: 40%;
+}
+
+.cart-item-img > img {
+  width: 100%;
+}
