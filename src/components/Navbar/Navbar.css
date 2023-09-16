@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.links div {
+  margin: auto 10px;
+}
